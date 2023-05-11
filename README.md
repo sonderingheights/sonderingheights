@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://bysusanlin.com/sprite-v.png">
+  <a href="https://bysusanlin.com/drink-coffee-before-go/"><img src="https://bysusanlin.com/sprite-v.png"></a>
 </p>
 
 <p>
