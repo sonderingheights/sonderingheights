@@ -10,10 +10,6 @@
   Hi there! I'm Susan, Product Designer & Artist. You might know me as the Founder of Mintlodica®, the mechanical keyboards brand. I also built Design Systems & directed Design Teams.
 </p>
 
-<p>
-  I'm trying not to take life too seriously these days. Don't follow me so my number can stay Nice. :)
-</p>
-
 <hr>
 
 <p align="center">
