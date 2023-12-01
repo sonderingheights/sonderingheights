@@ -7,5 +7,5 @@
 <hr>
 
 <p align="center">
-  <a href="https://mintlodica.com"><kbd>shop mechanical keyboards</kbd></a> ✵ <a href="https://bysusanlin.com"><kbd>visit my internet place</kbd></a> ✵ <a href="https://susan.omg.lol"><kbd>my links card</kbd></a>
+  <a href="https://mintlodica.com"><kbd>shop mechanical keyboards</kbd></a> ✵ <a href="https://bysusanlin.com"><kbd>visit my internet place</kbd></a>
 </p>
