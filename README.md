@@ -10,4 +10,6 @@
   <a href="https://mintlodica.com"><kbd>shop mechanical keyboards</kbd></a> ✵ <a href="https://bysusanlin.com"><kbd>visit my internet place</kbd></a>
 </p>
 
+<hr>
+
 <img src="https://bysusanlin.com/setup/bysusanlin-keyboard.jpg" alt="Mechanical keyboard top down."/>
