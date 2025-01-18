@@ -17,4 +17,4 @@
 
 <img src="https://xoxo-media.sfo2.cdn.digitaloceanspaces.com/media_attachments/files/111/988/322/713/226/529/original/2fb22356944e7fc4.jpg" alt="Mechanical keyboard top down."/>
 
-<img src="https://xoxo-media.sfo2.cdn.digitaloceanspaces.com/media_attachments/files/111/988/322/713/226/529/original/2fb22356944e7fc4.jpg" alt="Stained glass snake pieces."/>
+<img src="https://xoxo-media.sfo2.cdn.digitaloceanspaces.com/media_attachments/files/113/755/876/052/377/881/original/f1ab0dcc2f70548c.jpg" alt="Stained glass snake pieces."/>
