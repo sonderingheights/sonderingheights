@@ -16,8 +16,8 @@
 <hr>
 
 <img src="https://xoxo-media.sfo2.cdn.digitaloceanspaces.com/media_attachments/files/111/988/322/713/226/529/original/2fb22356944e7fc4.jpg" alt="Mechanical keyboard top down."/>
-<p>
-  <kbd>I no longer own this keyboard because <a href="https://youtu.be/0DXzgY89Nc4?si=6jHDmYCRDgjFl9dE&t=70">Simu Liu</a> has it.</kbd>
+<p align="center" style="font-size:0.9rem">
+  I no longer own this keyboard because <a href="https://youtu.be/0DXzgY89Nc4?si=6jHDmYCRDgjFl9dE&t=70"><kbd>Simu Liu</kbd></a> has it.
 </p>
 
 <!-- img src="https://xoxo-media.sfo2.cdn.digitaloceanspaces.com/media_attachments/files/113/755/876/052/377/881/original/f1ab0dcc2f70548c.jpg" alt="Stained glass snake pieces." --/>
