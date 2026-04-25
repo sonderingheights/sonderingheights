@@ -9,8 +9,9 @@
 
 <hr>
 
+  <img src="https://raw.githubusercontent.com/sonderingheights/bysusanlin.com/refs/heads/main/sonderingheights-pixels.png?token=GHSAT0AAAAAADYYEZARPZ3ALM5525E44L242PNAV4Q" height="32px" width="51.5px" />
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonderingheights/bysusanlin.com/refs/heads/main/sonderingheights-pixels.png?token=GHSAT0AAAAAADYYEZARPZ3ALM5525E44L242PNAV4Q" />
   <a href="https://mintlodica.com"><kbd>shop mechanical keyboards</kbd></a> ✵ <a href="https://bysusanlin.com"><kbd>visit my personal website</kbd></a> ✵ <a href="https://www.giantrobot.com/search?type=product&q=susan+lin"><kbd>see stained glass art</kbd></a>
 </p>
 
